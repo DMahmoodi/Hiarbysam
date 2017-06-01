@@ -1,0 +1,38 @@
+{
+  "Haircuts": [{
+    "title" : "Hair art in Full Bloom",
+    "name": "Hair cut sample 1",
+    "shortname" : "jobSample",
+    "summary" : "Summary of job 1",
+    "description": "<p>description 1.</p>",
+    "artwork": [  "jobSample_01_tn.jpg", 
+                  "jobSample_02_tn.jpg", 
+                  "jobSample_03_tn.jpg", 
+                  "jobSample_04_tn.jpg"]
+  },{
+    "title" : "Samle 1",
+    "name": "Haircut name 2",
+    "shortname" : "jobSample1",
+    "summary": "Summary of job 2",
+    "description": "<p> description 2.</p>",
+    "artwork" : [ "jobSample1_01_tn.jpg" , 
+                  "jobSample1_02_tn.jpg" , 
+                  "jobSample1_03_tn.jpg" , 
+                  "jobSample1_04_tn.jpg" , 
+                  "jobSample1_05_tn.jpg" , 
+                  "jobSample1_06_tn.jpg" , 
+                  "jobSample1_07_tn.jpg"]
+  },{
+    "title" : "The Art of bridal hair",
+    "name": "Haircut name 3",
+    "shortname" : "jobSample2",
+    "summary": "Summary of job 3",
+    "description": "<p>description 3.</p>",
+    "artwork" : [ "jobSample2_01_tn.jpg",
+                  "jobSample2_02_tn.jpg",
+                  "jobSample2_03_tn.jpg",
+                  "jobSample2_04_tn.jpg",
+                  "jobSample2_05_tn.jpg",
+                  "jobSample2_06_tn.jpg"]
+  }]
+}
